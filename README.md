@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of ernestdefoe/gauntlet.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/gauntlet) or the [upstream repository](https://github.com/ernestdefoe/gauntlet).
 
-**0** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/ernestdefoe-gauntlet/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^2.0`
+**3** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/ernestdefoe-gauntlet/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-10-21 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-gauntlet/tree/archive/v1.0.0) |
+| `1.1.0` | 2026-10-21 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-gauntlet/tree/archive/v1.1.0) |
+| `1.1.1` | 2026-10-24 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-gauntlet/tree/archive/v1.1.1) |
 
 Catalog entry: [packages/ernestdefoe-gauntlet.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-gauntlet.json)
 
